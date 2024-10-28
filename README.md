@@ -1,16 +1,20 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
 
-<!--
-**DanGit777/DanGit777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  <style>
+    *{
+      margin:0px;
+      padding:0px;
+}
+  </style>
+</head>
 
-Here are some ideas to get you started:
+<body>
+   
+</body>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</html>
